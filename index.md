@@ -3,7 +3,8 @@ Fande Kong
 
 Welcome
 -----------
-Fande
+Computational Scientist (staff) at Idaho National Laboratory.
+![](./pics/head.png)
 
 Education
 -----------
